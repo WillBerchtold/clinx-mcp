@@ -132,9 +132,9 @@ it as pending. The calendar has a kind `report due` for the day a state's report
 
 Every row in an answer carries the link to the official page it came from, and every answer says
 the day its table was last brought up to date. The plain sentences about each law, bill and
-notice were written by a person reading the official text. They are a reading aid, not legal
-advice, and a bill's sentence can trail a newer version of its text. Dates on the calendar can
-move.
+notice were written with Claude, Anthropic's AI model, from the official text. They are a reading
+aid, not legal advice, and a bill's sentence can trail a newer version of its text. Dates on the
+calendar can move.
 
 Three codes name a place. A state has its two letters, such as `RI`. Congress is `US`. Federal
 agencies, which write rules and notices and not bills, are `FED`.
