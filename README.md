@@ -169,7 +169,7 @@ server) and ask it a question. Nothing to install.
 **Your own copy.** You need [Node.js](https://nodejs.org) 20 or newer. Nothing else is
 installed: the server uses no outside packages.
 
-    git clone https://github.com/VVillBerchtold/clinx-mcp.git
+    git clone https://github.com/WillBerchtold/clinx-mcp.git
     cd clinx-mcp
     npm test
 
@@ -233,7 +233,7 @@ function, which is how the program on your own computer works with a plain copy 
 | `src/stdio.js` | The door for a helper program on your own computer. |
 | `src/http.js` | The door for the web. One request in, one answer out, nothing remembered. |
 | `src/serve.js` | Runs the web door on your own computer. |
-| `src/worker.js` | The web door shaped for an edge host that runs it by itself. Not deployed: clinx.org serves the same door from the site's own program ([clinx-org](https://github.com/VVillBerchtold/clinx-org), `worker/assistants.ts`). |
+| `src/worker.js` | The web door shaped for an edge host that runs it by itself. Not deployed: clinx.org serves the same door from the site's own program ([clinx-org](https://github.com/WillBerchtold/clinx-org), `worker/assistants.ts`). |
 | `src/*.d.ts` | The shapes of the pieces above, for a host written in TypeScript. |
 | `test/` | The tests, and small real slices of the tables (`test/data/`) they run on. |
 
