@@ -16,7 +16,7 @@
   "notice published": "A federal agency published a rule, a proposed rule or a notice in the Federal Register.",
   "comments close": "The last day a federal agency takes public comments on the document.",
   "takes effect": "The day the Federal Register gives as the document's effective date.",
-  "date set by a notice": "Another day the document itself sets, such as a deadline or a start day. A person read it in the document; its own words are in the notices table."
+  "date set by a notice": "Another day the document itself sets, such as a deadline or a start day. Claude read it in the document, and its own words are in the notices table."
  },
  "events": [
   {
@@ -1200,7 +1200,7 @@
    "body": "Health Resources and Services Administration",
    "where": "",
    "link": "https://www.federalregister.gov/documents/2026/08/03/2026-15633/notice-regarding-340b-rebate-model-pilot-program",
-   "source": "the document's own words, read by a person",
+   "source": "the document's own words, read by Claude",
    "retrieved": "2026-11-15"
   },
   {
@@ -1216,7 +1216,7 @@
    "body": "Health Resources and Services Administration",
    "where": "",
    "link": "https://www.federalregister.gov/documents/2026/08/03/2026-15633/notice-regarding-340b-rebate-model-pilot-program",
-   "source": "the document's own words, read by a person",
+   "source": "the document's own words, read by Claude",
    "retrieved": "2026-11-15"
   },
   {
@@ -1344,7 +1344,7 @@
    "body": "Centers for Medicare & Medicaid Services",
    "where": "",
    "link": "https://www.federalregister.gov/documents/2026/11/09/2026-22743/medicare-and-medicaid-programs-cy-2027-payment-policies-under-the-physician-fee-schedule-and-other",
-   "source": "the document's own words, read by a person",
+   "source": "the document's own words, read by Claude",
    "retrieved": "2026-11-15"
   },
   {
@@ -1360,7 +1360,7 @@
    "body": "Health Resources and Services Administration",
    "where": "",
    "link": "https://www.federalregister.gov/documents/2026/08/03/2026-15633/notice-regarding-340b-rebate-model-pilot-program",
-   "source": "the document's own words, read by a person",
+   "source": "the document's own words, read by Claude",
    "retrieved": "2026-11-15"
   }
  ]
